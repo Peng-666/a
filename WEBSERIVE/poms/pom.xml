@@ -11,6 +11,7 @@
   <modules>
     <module>code/routines</module>
     <module>jobs/process/restcatalog_v3_0.1</module>
+    <module>code/beans</module>
   </modules>
   <properties>
     <talend.project.name>WEBSERIVE</talend.project.name>
