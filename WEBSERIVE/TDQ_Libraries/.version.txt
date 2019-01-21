@@ -1,2 +1,0 @@
-#Fri Jan 18 18:19:50 CST 2019
-version=7.0.1
